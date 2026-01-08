@@ -1,12 +1,13 @@
 ---
-title: "Protecting-Revenue-During-a-Cash-Crisis"
+layout: post
+title: Protecting Revenue During a Cash Crisis
 date: 09-01-2026
 ---
 
 # Protecting Revenue During a Cash Crisis: Client Portfolio Optimization
 
 ## The Challenge
-A Fortune 500 retail company faced severe cash constraints following a multi-billion dollar merger—their response to Amazon's expansion into their market. Leadership faced an impossible choice: cut costs aggressively or watch cash reserves evaporate within 18 months.
+A Fortune 500 retail company faced severe cash constraints prior to a multi-billion dollar merger—their response to Amazon's expansion into their market. Leadership faced an impossible choice: cut costs aggressively or watch cash reserves evaporate within 18 months.
 
 The stakes: Their managed services division served 12,000 SME clients, but profitability varied wildly. Some clients generated strong margins; others were actively draining resources by exploiting the customer retention programs. Cutting the wrong clients would destroy revenue. Keeping unprofitable ones would accelerate the cash crisis.
 
