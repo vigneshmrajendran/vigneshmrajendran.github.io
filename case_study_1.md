@@ -1,9 +1,3 @@
----
-layout: post
-title: Protecting Revenue During a Cash Crisis
-date: 09-01-2026
----
-
 # Protecting Revenue During a Cash Crisis: Client Portfolio Optimization
 
 ## The Challenge
@@ -29,11 +23,11 @@ I built a constrained optimization model to find the mathematical "sweet spot"â€
 
 This freed up $18M in annual operating expensesâ€”enough runway to complete the merger integration without emergency layoffs.
 
-![Before vs After the analyses](../images/before_after_comparison.png)
+![Before vs After the analyses](./images/before_after_comparison.png)
 
 Having analysed the profitability using tiered composition analyses and scatter plots as shown below:
-![Segment wise profitability](../images/segment_analysis.png)
-![profitability scatter plot](../images/client_profitability_scatter.png)
+![Segment wise profitability](./images/segment_analysis.png)
+![profitability scatter plot](./images/client_profitability_scatter.png)
 
 **Secondary benefits:**
 - Support team could focus on high-value clients (satisfaction scores up 23%)
@@ -45,4 +39,4 @@ Having analysed the profitability using tiered composition analyses and scatter 
 - **Analysis:** Python (pandas, numpy, scipy.optimize), statistical clustering
 - **Deliverable:** Interactive dashboard showing client profitability scores + optimization scenarios
 - Flow Diagram can be found below:
-- ![Flow Diagram](../images/flow_diagram.png)
+![Flow Diagram](./images/flow_diagram.png)
