@@ -1,3 +1,8 @@
+---
+title: "Protecting-Revenue-During-a-Cash-Crisis"
+date: 09-01-2026
+---
+
 # Protecting Revenue During a Cash Crisis: Client Portfolio Optimization
 
 ## The Challenge
