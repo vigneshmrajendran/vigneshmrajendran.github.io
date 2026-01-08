@@ -6,8 +6,8 @@ Services: Customer portfolio optimization, marketing ROI analysis, operational e
 
 
 ## Case Studies
-- [Client Portfolio Optimization](case-study-1.md)
-- [Social Media ROI Engine](case-study-2.md)
-- [Recession Vulnerability Analysis](case-study-3.md)
+- [Client Portfolio Optimization](case-study-1)
+- [Social Media ROI Engine](case-study-2)
+- [Recession Vulnerability Analysis](case-study-3)
 
 Contact: vigneshmrajendran@gmail.com
