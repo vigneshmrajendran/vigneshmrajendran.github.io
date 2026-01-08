@@ -10,4 +10,4 @@ Services: Customer portfolio optimization, marketing ROI analysis, operational e
 - [Social Media ROI Engine](case-study-2.md)
 - [Recession Vulnerability Analysis](case-study-3.md)
 
-Contact: vigneshmrajendran@gmail.com
+Contact: [vigneshmrajendran@gmail.com](mailto:vigneshmrajendran@gmail.com)
