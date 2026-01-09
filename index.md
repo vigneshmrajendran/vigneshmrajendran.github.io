@@ -17,6 +17,6 @@ Services: Customer portfolio optimization, marketing ROI analysis, operational e
 ## Case Studies
 - [Client Portfolio Optimization](case-study-1.md)
 - [Social Media ROI Engine](case-study-2.md)
-- [RecSys Optimization which gave 350% in CTR](case-study-3.md)
+- [RecSys CTR Transformation](case-study-3.md)
 
 Contact: [vigneshmrajendran@gmail.com](mailto:vigneshmrajendran@gmail.com)
