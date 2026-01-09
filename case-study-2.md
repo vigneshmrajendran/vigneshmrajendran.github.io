@@ -62,3 +62,5 @@ In 2016, before LLMs democratized this capability, statistical NLP with pre-baye
 - **Analysis:** Python (pandas, nltk for tokenization), conditional probability tables, n-gram analysis
 - **Deliverable:** Simple web interface where writers paste drafts and receive real-time suggestions
 - **Infrastructure:** Hosted on $5/month VPS (deliberately low-cost to prove ROI)
+
+[Flowchart](./images/case_study_2.png)
