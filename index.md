@@ -14,7 +14,9 @@ Scoreboard in the last 18 months:
 
 I’m the Peter Brand to your Billy Beane—except I only show up when the storm is already in the stands. Next 5-day triage slot opens on **15th January 2026**. If your board wants growth but your CFO green-lights zero-capex projects, DM me “STAGFLATION” and I’ll send back a 15-min triage plan. 
 
-Services (all fixed-fee, 30 to 90-day sprints, payable only after documented cash impact ≥ 5× fee)
+## Services 
+
+(all fixed-fee, 30 to 90-day sprints, payable only after documented cash impact ≥ 5× fee)
 
 • Recession Cash-Flow Triage – 5-day data audit that ranks every SKU, customer and channel by “days-of-cash-left”; deliver a 90-day runway plan you can execute with frozen budgets.  
 
