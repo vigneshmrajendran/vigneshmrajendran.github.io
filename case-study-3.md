@@ -67,4 +67,4 @@ This project succeeded because I challenged the requirement. The stakeholder ask
 - **Analysis:** Python (pandas, scipy for similarity metrics), topic modeling (LDA), SVD for dimensionality reduction
 - **Deliverable:** Re-ranking API that sits between user request and recommendation engine
 - **Speed to deploy:** 6 days development, 8 days validation
-[Flowchart](./images/case_study_3.png)
+![Flowchart](./images/case_study_3.png)
