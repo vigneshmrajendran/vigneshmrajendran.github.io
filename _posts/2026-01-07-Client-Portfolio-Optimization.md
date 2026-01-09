@@ -23,11 +23,11 @@ I built a constrained optimization model to find the mathematical "sweet spot"â€
 
 This freed up $18M in annual operating expensesâ€”enough runway to complete the merger integration without emergency layoffs.
 
-![Before vs After the analyses](images/before_after_comparison.png)
+![Before vs After the analyses](../images/before_after_comparison.png)
 
 Having analysed the profitability using tiered composition analyses and scatter plots as shown below:
-![Segment wise profitability](images/segment_analysis.png)
-![profitability scatter plot](images/client_profitability_scatter.png)
+![Segment wise profitability](../images/segment_analysis.png)
+![profitability scatter plot](../images/client_profitability_scatter.png)
 
 **Secondary benefits:**
 - Support team could focus on high-value clients (satisfaction scores up 23%)

@@ -43,9 +43,9 @@ The system didn't write content—it guided writers toward proven patterns while
 - Marketing team could scale content 4x with same headcount
 - Model became internal product feature (users could optimize their own posts)
 
-![Key metrics impact](images/business_impact_metrics.png)
-![Change in Engagement after deployment](images/engagement_timeline.png)
-![Viral Post Distribution](images/viral_post_distribution.png)
+![Key metrics impact](../images/business_impact_metrics.png)
+![Change in Engagement after deployment](../images/engagement_timeline.png)
+![Viral Post Distribution](../images/viral_post_distribution.png)
 
 ## Why It Worked
 This succeeded because it solved a **speed vs. quality tradeoff:**
@@ -53,7 +53,7 @@ This succeeded because it solved a **speed vs. quality tradeoff:**
 - ML/AI approach: Requires massive data, compute, ongoing training (expensive, overkill)
 - **This approach:** Fast, cheap, interpretable recommendations based on proven patterns
 
-![Word wise increase in Lift](images/word_optimization_example.png)
+![Word wise increase in Lift](../images/word_optimization_example.png)
 
 In 2016, before LLMs democratized this capability, statistical NLP with pre-bayesian inference was the Pareto-optimal solution.
 
@@ -63,4 +63,4 @@ In 2016, before LLMs democratized this capability, statistical NLP with pre-baye
 - **Deliverable:** Simple web interface where writers paste drafts and receive real-time suggestions
 - **Infrastructure:** Hosted on $5/month VPS (deliberately low-cost to prove ROI)
 
-![Flowchart](./images/case_study_2.png)
+![Flowchart](../images/case_study_2.png)

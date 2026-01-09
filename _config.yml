@@ -3,13 +3,19 @@
 #
 
 # Name of your site (displayed in the header)
-name: Vignesh M Rajendran
+
 
 # Short bio or description (displayed in the header)
-description: Crisis Financial Management Scientist with focus on resource constrained environments for SMEs
+
+# Site settings
+title: Vignesh's homepage
+author:
+  name: Vignesh M Rajendran
+  email: VigneshMRajendran@gmail.com
+description: "Crisis Financial Management Scientist with focus on resource constrained environments for SMEs"
+
 
 remote_theme: pages-themes/cayman@v0.2.0
-title: Vignesh's homepage
 
 plugins:
   - jekyll-remote-theme
