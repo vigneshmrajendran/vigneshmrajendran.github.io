@@ -38,8 +38,14 @@ New visitors don't want "recommendations just for you"—they want social proof.
 ## The Results
 **Over 14 days (pre-investor pitch):**
 - CTR: 1.8% → 8.2% (356% increase)
+![CTR improvement timeline](images/ctr_timeline.png)
 - Time on platform: 47 sec → 2 min 34 sec
 - Signup conversion: 4.2% → 9.1%
+
+![Business Metrics Improvement](images/business_metrics.png)
+![Segment performance](images/segment_performance.png)
+![Strategy Comparison](images/strategy_comparison.png)
+
 
 **Investor pitch impact:**
 - Deck metrics now exceeded category benchmarks
