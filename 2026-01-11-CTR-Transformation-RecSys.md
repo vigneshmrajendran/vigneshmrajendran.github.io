@@ -38,13 +38,13 @@ New visitors don't want "recommendations just for you"—they want social proof.
 ## The Results
 **Over 14 days (pre-investor pitch):**
 - CTR: 1.8% → 8.2% (356% increase)
-![CTR improvement timeline](images/ctr_timeline.png)
+![CTR improvement timeline](../images/ctr_timeline.png)
 - Time on platform: 47 sec → 2 min 34 sec
 - Signup conversion: 4.2% → 9.1%
 
-![Business Metrics Improvement](images/business_metrics.png)
-![Segment performance](images/segment_performance.png)
-![Strategy Comparison](images/strategy_comparison.png)
+![Business Metrics Improvement](../images/business_metrics.png)
+![Segment performance](../images/segment_performance.png)
+![Strategy Comparison](../images/strategy_comparison.png)
 
 
 **Investor pitch impact:**
@@ -67,4 +67,4 @@ This project succeeded because I challenged the requirement. The stakeholder ask
 - **Analysis:** Python (pandas, scipy for similarity metrics), topic modeling (LDA), SVD for dimensionality reduction
 - **Deliverable:** Re-ranking API that sits between user request and recommendation engine
 - **Speed to deploy:** 6 days development, 8 days validation
-![Flowchart](./images/case_study_3.png)
+![Flowchart](../images/case_study_3.png)

@@ -39,4 +39,4 @@ Having analysed the profitability using tiered composition analyses and scatter 
 - **Analysis:** Python (pandas, numpy, scipy.optimize), statistical clustering
 - **Deliverable:** Interactive dashboard showing client profitability scores + optimization scenarios
 - Flow Diagram can be found below:
-![Flow Diagram](images/flow_diagram.png)
+![Flow Diagram](../images/flow_diagram.png)

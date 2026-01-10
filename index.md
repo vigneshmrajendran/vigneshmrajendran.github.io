@@ -30,8 +30,8 @@ I’m the Peter Brand to your Billy Beane—except I only show up when the storm
 
 
 ## Case Studies
-- [Client Portfolio Optimization](case-study-1.md)
-- [Social Media ROI Engine](case-study-2.md)
-- [RecSys CTR Transformation](case-study-3.md)
+- [Client Portfolio Optimization](2026-01-07-Client-Portfolio-Optimization.md)
+- [Social Media ROI Engine](2026-01-09-Social-Media-ROI_Engine.md)
+- [RecSys CTR Transformation](2026-01-11-CTR-Transformation-RecSys.md)
 
 Contact: [vigneshmrajendran@gmail.com](mailto:vigneshmrajendran@gmail.com)
