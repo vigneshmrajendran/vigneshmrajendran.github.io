@@ -1,10 +1,10 @@
-# 350% CTR Increase in 14 Days: The Cold-Start Problem
+# 290% CTR Increase in 14 Days: The Cold-Start Problem
 
 ## The Challenge
 An ed-tech startup was 6 weeks from their Series A pitch. Their deck promised "demonstrated user engagement," but the numbers told a different story:
 
 **The metrics investors would see:**
-- Click-through rate (CTR): 1.8% on recommendation feeds
+- Click-through rate (CTR): 2.8% on recommendation feeds
 - Time on platform: 47 seconds average
 - Signup conversion after browsing: 4.2%
 
@@ -37,7 +37,7 @@ New visitors don't want "recommendations just for you"—they want social proof.
 
 ## The Results
 **Over 14 days (pre-investor pitch):**
-- CTR: 1.8% → 8.2% (356% increase)
+- CTR: 2.82.8% → 8.22.8% (292% increase)
 ![CTR improvement timeline](../images/ctr_timeline.png)
 - Time on platform: 47 sec → 2 min 34 sec
 - Signup conversion: 4.2% → 9.1%
