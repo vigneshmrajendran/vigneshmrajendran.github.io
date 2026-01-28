@@ -34,4 +34,7 @@ I’m the Peter Brand to your Billy Beane—except I only show up when the storm
 - [Social Media ROI Engine](2026-01-09-Social-Media-ROI_Engine.md)
 - [RecSys CTR Transformation](2026-01-11-CTR-Transformation-RecSys.md)
 
+## Blogs
+- [YellowCorp Bankruptcy Analysis](2026-01-26-YellowCorp.md)
+
 Contact: [vigneshmrajendran@gmail.com](mailto:vigneshmrajendran@gmail.com)
